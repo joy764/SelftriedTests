@@ -1,0 +1,578 @@
+[2025-05-26 23:17:14] [INFO ] tests.LoginTest - ChromeDriver initialized
+[2025-05-26 23:17:14] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='admin'
+[2025-05-26 23:17:16] [INFO ] tests.LoginTest - Alert text: Login successful!
+[2025-05-26 23:17:16] [INFO ] tests.LoginTest - Assertion passed
+[2025-05-26 23:17:17] [INFO ] tests.LoginTest - Testing login with user='user', pass='wrongpass', role='user'
+[2025-05-26 23:17:19] [INFO ] tests.LoginTest - Alert text: Login failed!
+[2025-05-26 23:17:19] [INFO ] tests.LoginTest - Assertion passed
+[2025-05-26 23:17:19] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='user'
+[2025-05-26 23:17:21] [INFO ] tests.LoginTest - Alert text: Login failed!
+[2025-05-26 23:17:21] [INFO ] tests.LoginTest - Assertion passed
+[2025-05-26 23:17:21] [INFO ] tests.LoginTest - Quitting driver
+[2025-05-27 00:21:09] [INFO ] tests.LoginTest - ChromeDriver initialized
+[2025-05-27 00:21:09] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='admin'
+[2025-05-27 00:21:11] [INFO ] tests.LoginTest - Alert text: Login successful!
+[2025-05-27 00:21:11] [INFO ] tests.LoginTest - Assertion passed
+[2025-05-27 00:21:11] [INFO ] tests.LoginTest - Testing login with user='user', pass='wrongpass', role='user'
+[2025-05-27 00:21:14] [INFO ] tests.LoginTest - Alert text: Login failed!
+[2025-05-27 00:21:14] [INFO ] tests.LoginTest - Assertion passed
+[2025-05-27 00:21:14] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='user'
+[2025-05-27 00:21:16] [INFO ] tests.LoginTest - Alert text: Login failed!
+[2025-05-27 00:21:16] [INFO ] tests.LoginTest - Assertion passed
+[2025-05-27 00:21:16] [INFO ] tests.LoginTest - Quitting driver
+[2025-05-28 21:11:26] [INFO ] tests.LoginTest - ChromeDriver initialized
+[2025-05-28 21:11:26] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='admin'
+[2025-05-28 21:11:28] [INFO ] tests.LoginTest - Alert text: Login successful!
+[2025-05-28 21:11:28] [INFO ] tests.LoginTest - Assertion passed
+[2025-05-28 21:11:28] [INFO ] tests.LoginTest - Testing login with user='user', pass='wrongpass', role='user'
+[2025-05-28 21:11:30] [INFO ] tests.LoginTest - Alert text: Login failed!
+[2025-05-28 21:11:30] [INFO ] tests.LoginTest - Assertion passed
+[2025-05-28 21:11:30] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='user'
+[2025-05-28 21:11:31] [INFO ] tests.LoginTest - Alert text: Login failed!
+[2025-05-28 21:11:31] [INFO ] tests.LoginTest - Assertion passed
+[2025-05-28 21:11:31] [INFO ] tests.LoginTest - Quitting driver
+[2025-05-30 08:47:15] [INFO ] tests.LoginTest - ChromeDriver initialized
+[2025-05-30 08:47:15] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='admin'
+[2025-05-30 08:47:17] [INFO ] tests.LoginTest - Alert text: Login successful!
+[2025-05-30 08:47:17] [INFO ] tests.LoginTest - Assertion passed
+[2025-05-30 08:47:17] [INFO ] tests.LoginTest - Testing login with user='user', pass='wrongpass', role='user'
+[2025-05-30 08:47:20] [INFO ] tests.LoginTest - Alert text: Login failed!
+[2025-05-30 08:47:20] [INFO ] tests.LoginTest - Assertion passed
+[2025-05-30 08:47:20] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='user'
+[2025-05-30 08:47:22] [INFO ] tests.LoginTest - Alert text: Login failed!
+[2025-05-30 08:47:22] [INFO ] tests.LoginTest - Assertion passed
+[2025-05-30 08:47:22] [INFO ] tests.LoginTest - Quitting driver
+[2025-06-05 21:34:39] [INFO ] tests.LoginTest - ChromeDriver initialized
+[2025-06-05 21:34:40] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='admin'
+[2025-06-05 21:34:41] [INFO ] tests.LoginTest - Alert text: Login successful!
+[2025-06-05 21:34:41] [INFO ] tests.LoginTest - Assertion passed
+[2025-06-05 21:34:41] [INFO ] tests.LoginTest - Testing login with user='user', pass='wrongpass', role='user'
+[2025-06-05 21:34:43] [INFO ] tests.LoginTest - Alert text: Login failed!
+[2025-06-05 21:34:43] [INFO ] tests.LoginTest - Assertion passed
+[2025-06-05 21:34:43] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='user'
+[2025-06-05 21:34:44] [INFO ] tests.LoginTest - Alert text: Login failed!
+[2025-06-05 21:34:44] [INFO ] tests.LoginTest - Assertion passed
+[2025-06-05 21:34:44] [INFO ] tests.LoginTest - Quitting driver
+[2025-06-06 00:20:10] [INFO ] tests.LoginTest - EDGE browser started on Selenium Grid.
+[2025-06-06 00:20:10] [INFO ] tests.LoginTest - EDGE browser started on Selenium Grid.
+[2025-06-06 00:20:10] [INFO ] tests.LoginTest - EDGE browser started on Selenium Grid.
+[2025-06-06 00:20:10] [INFO ] tests.LoginTest - Opened login page
+[2025-06-06 00:20:10] [INFO ] tests.LoginTest - Testing login with user='user', pass='wrongpass', role='user'
+[2025-06-06 00:20:10] [INFO ] tests.LoginTest - Opened login page
+[2025-06-06 00:20:10] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='user'
+[2025-06-06 00:20:10] [INFO ] tests.LoginTest - Opened login page
+[2025-06-06 00:20:10] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='admin'
+[2025-06-06 00:20:12] [INFO ] tests.LoginTest - Browser closed.
+[2025-06-06 00:20:12] [INFO ] tests.LoginTest - Browser closed.
+[2025-06-06 00:20:12] [INFO ] tests.LoginTest - Browser closed.
+[2025-06-06 00:29:48] [INFO ] tests.LoginTest - EDGE browser started on Selenium Grid.
+[2025-06-06 00:29:48] [INFO ] tests.LoginTest - EDGE browser started on Selenium Grid.
+[2025-06-06 00:29:48] [INFO ] tests.LoginTest - EDGE browser started on Selenium Grid.
+[2025-06-06 00:29:49] [INFO ] tests.LoginTest - Opened login page
+[2025-06-06 00:29:49] [INFO ] tests.LoginTest - Opened login page
+[2025-06-06 00:29:49] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='admin'
+[2025-06-06 00:29:49] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='user'
+[2025-06-06 00:29:49] [INFO ] tests.LoginTest - Opened login page
+[2025-06-06 00:29:49] [INFO ] tests.LoginTest - Testing login with user='user', pass='wrongpass', role='user'
+[2025-06-06 00:29:51] [INFO ] tests.LoginTest - Browser closed.
+[2025-06-06 00:29:51] [INFO ] tests.LoginTest - Browser closed.
+[2025-06-06 00:29:51] [INFO ] tests.LoginTest - Browser closed.
+[2025-06-06 00:30:11] [INFO ] tests.LoginTest - EDGE browser started on Selenium Grid.
+[2025-06-06 00:30:11] [INFO ] tests.LoginTest - EDGE browser started on Selenium Grid.
+[2025-06-06 00:30:11] [INFO ] tests.LoginTest - EDGE browser started on Selenium Grid.
+[2025-06-06 00:30:11] [INFO ] tests.LoginTest - Opened login page
+[2025-06-06 00:30:11] [INFO ] tests.LoginTest - Testing login with user='user', pass='wrongpass', role='user'
+[2025-06-06 00:30:11] [INFO ] tests.LoginTest - Opened login page
+[2025-06-06 00:30:11] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='user'
+[2025-06-06 00:30:11] [INFO ] tests.LoginTest - Opened login page
+[2025-06-06 00:30:11] [INFO ] tests.LoginTest - Testing login with user='admin', pass='password123', role='admin'
+[2025-06-06 00:30:13] [INFO ] tests.LoginTest - Browser closed.
+[2025-06-06 00:30:13] [INFO ] tests.LoginTest - Browser closed.
+[2025-06-06 00:30:13] [INFO ] tests.LoginTest - Browser closed.
+[2025-07-16 22:33:01] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:33:02] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:33:02] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='admin'
+[2025-07-16 22:33:02] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:33:04] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:33:04] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:33:04] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='user'
+[2025-07-16 22:33:05] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:33:07] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:33:07] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:33:07] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='user'
+[2025-07-16 22:33:07] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:34:52] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:34:52] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:34:52] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='admin'
+[2025-07-16 22:34:53] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:34:54] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:34:54] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:34:54] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='user'
+[2025-07-16 22:34:55] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:34:56] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:34:57] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:34:57] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='user'
+[2025-07-16 22:34:58] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:38:32] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:38:32] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:38:32] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 22:38:34] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-07-16 22:38:34] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:38:34] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:38:35] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:38:35] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:38:35] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 22:38:37] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 22:38:37] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:38:37] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:38:38] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:38:38] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:38:38] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 22:38:39] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 22:38:39] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:38:40] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:39:24] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:39:24] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:39:24] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 22:39:26] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-07-16 22:39:26] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:39:26] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:39:28] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:39:28] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:39:28] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 22:39:29] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 22:39:29] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:39:29] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:39:30] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:39:30] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:39:30] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 22:39:32] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 22:39:32] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:39:32] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:46:09] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:46:09] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:46:09] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 22:46:10] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-07-16 22:46:10] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:46:11] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:46:12] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:46:12] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:46:12] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 22:46:13] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 22:46:13] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:46:14] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:46:15] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:46:15] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:46:15] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 22:46:16] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 22:46:16] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:46:17] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:47:51] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:47:51] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:47:51] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='admin'
+[2025-07-16 22:47:52] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:47:53] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:47:53] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:47:53] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='user'
+[2025-07-16 22:47:54] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:47:55] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:47:56] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:47:56] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='user'
+[2025-07-16 22:47:56] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:49:14] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:49:14] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:49:14] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 22:49:15] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:49:16] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:49:17] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:49:17] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 22:49:18] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:49:19] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:49:19] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:49:19] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 22:49:20] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:50:00] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:50:00] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:50:00] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 22:50:02] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-07-16 22:50:02] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:50:02] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:50:03] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:50:03] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:50:03] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 22:50:04] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 22:50:04] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:50:05] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:50:06] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:50:06] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:50:06] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 22:50:07] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 22:50:07] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:50:08] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:51:31] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:51:31] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:51:31] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 22:51:33] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-07-16 22:51:33] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:51:33] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:51:34] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:51:34] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:51:34] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 22:51:36] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 22:51:36] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:51:36] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 22:51:37] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 22:51:37] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 22:51:37] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 22:51:38] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 22:51:38] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 22:51:38] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:04:45] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:04:45] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:04:45] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 23:04:46] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-07-16 23:04:46] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:04:47] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:04:48] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:04:48] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:04:48] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 23:04:49] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:04:49] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:04:49] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:04:51] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:04:51] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:04:51] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 23:04:52] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:04:52] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:04:52] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:08:45] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:08:45] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:08:45] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 23:08:47] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-07-16 23:08:47] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:08:47] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:08:47] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:08:48] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:08:48] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:08:48] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 23:08:50] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:08:50] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:08:50] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:08:50] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:08:51] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:08:51] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:08:51] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 23:08:53] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:08:53] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:08:53] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:08:53] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:09:42] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:09:43] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:09:43] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 23:09:44] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-07-16 23:09:44] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:09:44] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:09:44] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:09:46] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:09:46] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:09:46] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 23:09:47] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:09:47] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:09:47] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:09:47] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:09:49] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:09:49] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:09:49] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 23:09:50] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:09:50] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:09:50] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:09:50] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:10:48] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:10:48] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:10:48] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 23:10:49] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-07-16 23:10:49] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:10:49] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:10:50] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:10:51] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:10:51] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:10:51] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 23:10:53] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:10:53] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:10:53] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:10:53] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:10:54] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:10:55] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:10:55] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 23:10:56] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:10:56] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:10:56] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:10:56] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:12:08] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:12:08] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:12:08] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 23:12:09] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:12:10] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:12:10] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:12:10] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 23:12:11] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:12:13] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:12:13] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:12:13] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 23:12:14] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:13:06] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:13:06] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:13:06] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 23:13:08] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:13:09] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:13:09] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:13:09] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 23:13:10] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:13:11] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:13:11] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:13:11] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 23:13:12] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:14:00] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:14:01] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:14:01] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 23:14:01] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:14:03] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:14:03] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:14:03] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 23:14:04] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:14:06] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:14:06] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:14:06] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 23:14:08] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:14:19] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:14:19] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:14:19] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 23:14:20] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:14:22] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:14:22] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:14:22] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 23:14:23] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:14:25] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:14:25] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:14:25] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 23:14:26] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:15:26] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:15:26] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:15:26] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 23:15:28] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-07-16 23:15:28] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:15:28] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:15:28] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:15:29] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:15:29] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:15:29] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 23:15:31] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:15:31] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:15:31] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:15:31] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:15:32] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:15:32] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:15:32] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 23:15:33] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:15:34] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:15:34] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:15:34] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:16:06] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:16:06] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:16:06] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 23:16:08] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-07-16 23:16:08] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:16:08] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:16:08] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:16:09] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:16:10] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:16:10] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 23:16:11] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:16:11] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:16:11] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:16:11] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:16:13] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:16:13] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:16:13] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 23:16:14] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:16:14] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:17:52] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:17:53] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:17:53] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 23:17:54] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-07-16 23:17:54] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:17:54] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:17:54] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:17:56] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:17:56] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:17:56] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 23:17:57] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:17:57] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:17:57] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:17:57] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:17:59] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:17:59] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:17:59] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 23:18:00] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:18:01] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:18:10] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:18:10] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:18:10] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 23:18:11] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-07-16 23:18:11] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:18:11] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:18:11] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:18:12] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:18:13] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:18:13] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-07-16 23:18:13] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:18:13] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:18:13] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 23:18:14] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-07-16 23:18:14] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:18:14] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:18:14] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:18:15] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:18:15] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:18:15] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:18:15] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:18:16] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:18:16] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:18:16] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-07-16 23:18:17] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:18:17] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:18:17] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 23:18:17] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:18:17] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-07-16 23:18:18] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:18:18] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-07-16 23:18:18] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:18:18] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-07-16 23:18:19] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-07-16 23:18:19] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-07-16 23:18:19] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-07-16 23:18:20] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-07-16 23:18:20] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:05:16] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:05:16] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:05:16] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-09-27 11:05:17] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:05:19] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:05:19] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:05:19] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-09-27 11:05:19] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:05:21] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:05:22] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:05:22] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-09-27 11:05:22] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:12:07] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:12:07] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:12:07] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-09-27 11:12:09] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:12:11] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:12:11] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:12:11] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-09-27 11:12:13] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:12:15] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:12:15] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:12:15] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-09-27 11:12:16] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:14:06] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:14:06] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:14:06] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-09-27 11:14:08] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-09-27 11:14:08] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-09-27 11:14:09] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:14:09] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-09-27 11:14:12] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:14:13] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:14:13] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-09-27 11:14:14] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-09-27 11:14:15] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-09-27 11:14:15] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:14:15] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-09-27 11:14:18] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:14:18] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:14:18] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-09-27 11:14:20] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-09-27 11:14:20] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:15:08] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:15:08] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:15:08] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-09-27 11:15:10] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-09-27 11:15:10] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-09-27 11:15:10] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:15:10] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-09-27 11:15:14] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:15:14] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:15:14] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-09-27 11:15:16] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-09-27 11:15:16] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-09-27 11:15:16] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:15:16] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-09-27 11:15:19] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:15:19] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:15:19] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-09-27 11:15:21] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-09-27 11:15:22] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:16:10] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:16:10] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:16:10] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-09-27 11:16:12] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-09-27 11:16:12] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-09-27 11:16:12] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:16:13] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-09-27 11:16:16] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:16:17] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:16:17] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-09-27 11:16:18] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-09-27 11:16:19] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-09-27 11:16:19] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:16:19] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-09-27 11:16:22] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:16:22] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:16:22] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-09-27 11:16:24] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-09-27 11:16:24] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:17:40] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:17:40] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:17:40] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-09-27 11:17:42] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-09-27 11:17:42] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-09-27 11:17:43] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:17:43] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-09-27 11:17:47] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:17:47] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:17:47] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-09-27 11:17:49] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-09-27 11:17:49] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-09-27 11:17:49] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:17:49] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-09-27 11:17:52] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:17:52] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:17:52] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-09-27 11:17:54] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-09-27 11:17:54] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-09-27 11:17:54] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:17:54] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-09-27 11:31:03] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:31:04] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:31:04] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='Admin'
+[2025-09-27 11:31:05] [INFO ] tests.LoginTest - Alert displayed: Login successful!
+[2025-09-27 11:31:05] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-09-27 11:31:05] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:31:05] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-09-27 11:31:06] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:31:06] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:31:06] [INFO ] tests.LoginTest - Testing login with username='user', password='wrongpass', role='User'
+[2025-09-27 11:31:07] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-09-27 11:31:07] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-09-27 11:31:07] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:31:07] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
+[2025-09-27 11:31:08] [INFO ] tests.LoginTest - Chrome browser launched.
+[2025-09-27 11:31:08] [INFO ] tests.LoginTest - Opened login page: file:///home/jack/Desktop/project/webpage.html
+[2025-09-27 11:31:08] [INFO ] tests.LoginTest - Testing login with username='admin', password='password123', role='User'
+[2025-09-27 11:31:09] [INFO ] tests.LoginTest - Alert displayed: Login failed!
+[2025-09-27 11:31:09] [INFO ] tests.LoginTest - Alert accepted, test completed.
+[2025-09-27 11:31:09] [INFO ] tests.LoginTest - Chrome browser closed.
+[2025-09-27 11:31:09] [WARN ] tests.LoginTest - Could not play sound: File of unsupported format
