@@ -47,7 +47,7 @@ public class LoginTest extends BaseTest {
         getDriver().findElement(passwordField).sendKeys(password);
 
         // Use Select for dropdown
-        Select roleSelect = new Select(getDriver().findElement(roleField));
+        Select roleSelect = new Select(getDriver().figindElement(roleField));
         roleSelect.selectByVisibleText(role);
 
         getDriver().findElement(rememberMeCheckbox).click();
